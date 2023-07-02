@@ -43,12 +43,15 @@ To run the Collab Buddy website locally, follow these steps:
 6. Open your web browser and access the website at [http://localhost:3000](http://localhost:3000).
 
 ## Screenshots
+![1](https://github.com/Ykumar1415/Collab_Buddy/assets/97088265/f2d3207e-e077-4112-bc0e-3b3349f2c35c)
 
-[Add screenshots of your website here to showcase its interface and features]
+![2](https://github.com/Ykumar1415/Collab_Buddy/assets/97088265/c92113fb-8dc7-4d60-935c-2cff37770f35)
 
-## Demo
+![3](https://github.com/Ykumar1415/Collab_Buddy/assets/97088265/7eb3adc6-81d2-43fe-a06e-4903e91a3cc3)
+![4](https://github.com/Ykumar1415/Collab_Buddy/assets/97088265/25edc21c-8796-4235-b519-4505989a204e)
+![5](https://github.com/Ykumar1415/Collab_Buddy/assets/97088265/e50900b1-a605-4b14-a67a-83f0b8271b1b)
+![6](https://github.com/Ykumar1415/Collab_Buddy/assets/97088265/be744f1f-0a33-4942-bbd7-365748026348)
 
-[Provide a link to a live demo of your Collab Buddy website, if available]
 
 ## Contributors
 
