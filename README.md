@@ -50,7 +50,6 @@ To run the Collab Buddy website locally, follow these steps:
 ![3](https://github.com/Ykumar1415/Collab_Buddy/assets/97088265/7eb3adc6-81d2-43fe-a06e-4903e91a3cc3)
 ![4](https://github.com/Ykumar1415/Collab_Buddy/assets/97088265/25edc21c-8796-4235-b519-4505989a204e)
 ![5](https://github.com/Ykumar1415/Collab_Buddy/assets/97088265/e50900b1-a605-4b14-a67a-83f0b8271b1b)
-![6](https://github.com/Ykumar1415/Collab_Buddy/assets/97088265/be744f1f-0a33-4942-bbd7-365748026348)
 
 
 ## Contributors
