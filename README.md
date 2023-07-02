@@ -16,7 +16,7 @@ Collab Buddy is a collaborative platform that allows friends to work together an
 - Back-end: Node.js, Express.js
 - Database: MongoDB
 - Real-time communication: Socket.io, WebRTC
-- Other libraries and tools: [List any other libraries or tools used]
+- Other libraries and tools: Zegocloud
 
 ## Getting Started
 
