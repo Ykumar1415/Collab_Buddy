@@ -1,5 +1,6 @@
 # Collab_Buddy
 
+
 Collab Buddy is a collaborative platform that allows friends to work together and have video chat sessions. It provides a seamless experience for real-time collaboration, enabling users to collaborate on projects, share files, and communicate via video chat.
 
 ## Features
